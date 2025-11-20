@@ -2,6 +2,14 @@
 
 Another version of the Pacman game developed in python with pygame
 
+* Menu scene:
+
+![image](/docs/images/menu_scene.png "Screenshot - Menu scene")
+
+* Game scene:
+
+![image](/docs/images/game_scene.png "Screenshot - Main scene")
+
 ## Start here
 
 1. You need to have python installed (Version 3.13+). Just check the version with the following command:
