@@ -1,0 +1,7 @@
+[project]
+
+name = "pacman"
+version = "1.0.0"
+description = "Another version of the pacman game developed in python with pygame"
+requires-python = ">=3.13"
+license = { file = "LICENSE" }
